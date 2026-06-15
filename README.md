@@ -33,3 +33,10 @@ O sistema foi testado com obras de arte reais e provou ser capaz de identificar 
 * **Variações sutis da mesma obra:** 0.015 a 0.093 (Alta similaridade detectada).
 * **Imagens com edições e marcas d'água:** 0.062 a 0.156 (Autenticidade detectada, imune a ruídos).
 * **Obra original vs. Imagem gerada por IA:** 0.468 (Identificada corretamente como imagem distinta/não autêntica).
+
+## Team
+
+- [Estevan Teixeira Santos](https://github.com/estevansantos-ops)
+- [Vinícius Goulart](https://github.com/VinicGou)
+- [Breno Cerqueira Reis Nakamura](https://github.com/brenonak)
+- [Vinícius Augusto Landim Andrade](https://github.com/vinicius-landim)
